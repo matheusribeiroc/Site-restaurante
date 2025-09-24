@@ -46,7 +46,7 @@ footer {
   margin-top: 40px;
 }
 #menu img {
-  max-width: 220px;  /* largura máxima das imagens */
+  max-width: 120px;  /* largura máxima das imagens */
   height: auto;
   display: block;
   margin: 0 auto 15px auto; /* centraliza a imagem e adiciona margem abaixo */
