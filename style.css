@@ -49,6 +49,6 @@ footer {
   max-width: 120px;  /* largura máxima das imagens */
   height: auto;
   display: block;
-  margin: 0 auto 15px auto; /* centraliza a imagem e adiciona margem abaixo */
+  margin: 0 auto 7px auto; /* centraliza a imagem e adiciona margem abaixo */
   border-radius: 6px;
 }
