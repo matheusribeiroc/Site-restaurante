@@ -46,9 +46,9 @@ footer {
   margin-top: 40px;
 }
 .menu img {
-  max-width: 10px;  
+  max-width: 20px;  
   height: auto;
   display: block;
-  margin: 2 auto 8px auto; 
+  margin: 2 auto 6px auto; 
   border-radius: 6px;
 }
